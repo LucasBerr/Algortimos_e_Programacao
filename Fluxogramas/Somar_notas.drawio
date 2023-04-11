@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" modified="2023-04-10T17:23:55.965Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="N-U1pgvc7MMM11-W4Zcn" version="21.1.5" type="device">
+  <diagram name="Página-1" id="nmThW-1vln1VyKdIqRIc">
+    <mxGraphModel dx="472" dy="729" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wd6usiknlu3trlZa277n-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wd6usiknlu3trlZa277n-1" target="wd6usiknlu3trlZa277n-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wd6usiknlu3trlZa277n-1" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="48" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wd6usiknlu3trlZa277n-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wd6usiknlu3trlZa277n-3" target="wd6usiknlu3trlZa277n-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wd6usiknlu3trlZa277n-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wd6usiknlu3trlZa277n-3" target="wd6usiknlu3trlZa277n-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wd6usiknlu3trlZa277n-3" value="Enquanto&amp;nbsp;&lt;br&gt;i &amp;lt; 4" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="264" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wd6usiknlu3trlZa277n-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wd6usiknlu3trlZa277n-4" target="wd6usiknlu3trlZa277n-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wd6usiknlu3trlZa277n-4" value="i = 0&lt;br&gt;soma = 0" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="364" y="168" width="100" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="wd6usiknlu3trlZa277n-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wd6usiknlu3trlZa277n-7" target="wd6usiknlu3trlZa277n-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="312" y="775" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wd6usiknlu3trlZa277n-7" value="&quot;Soma é&quot;, soma" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="192" y="636" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wd6usiknlu3trlZa277n-10" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="276" y="288" width="36" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="wd6usiknlu3trlZa277n-11" value="V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="364" width="36" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="wd6usiknlu3trlZa277n-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wd6usiknlu3trlZa277n-14" target="wd6usiknlu3trlZa277n-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wd6usiknlu3trlZa277n-14" value="i &amp;lt;- i+1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="373" y="432" width="82" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="wd6usiknlu3trlZa277n-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.183;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wd6usiknlu3trlZa277n-15" target="wd6usiknlu3trlZa277n-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wd6usiknlu3trlZa277n-15" value="&quot;Informe um valor&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="492" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wd6usiknlu3trlZa277n-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wd6usiknlu3trlZa277n-19" target="wd6usiknlu3trlZa277n-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wd6usiknlu3trlZa277n-19" value="n" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="364" y="576" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wd6usiknlu3trlZa277n-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wd6usiknlu3trlZa277n-20" target="wd6usiknlu3trlZa277n-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="744" />
+              <mxPoint x="546" y="744" />
+              <mxPoint x="546" y="314" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wd6usiknlu3trlZa277n-20" value="soma &amp;lt;- soma + n" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="362" y="684" width="104" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wd6usiknlu3trlZa277n-27" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="366" y="1014" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
